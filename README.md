@@ -1,4 +1,4 @@
-# Spring Grpc Http
+# GRPC + HTTP API with SPring-boot
 
 Simple example about How to build GRPC and HTTP API with Spring-boot.
 
